@@ -40,3 +40,21 @@ As growth mindset, you learn
 > being wrong mean  :arrow_forward:  you are not right yet 
 
 keep going :muscle:
+
+
+
+# my Goals 
+
+ work  __hard__ to check all boxes   :memo:  
+
+[ ] one of my dream to work with big company in front end development 
+remotely.
+
+[ ] to complete my side project who used technology to build solid social 
+impact in my community.
+
+[ ] to design and build apps that solve my own and my community problems.
+
+[ ] to win big [challenges](http://topcoder.com/challenges/). 
+
+[X] keep helping and inspire others to reach their goals. 
